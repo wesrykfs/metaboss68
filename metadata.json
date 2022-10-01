@@ -1,0 +1,36 @@
+{
+  "name": "Caveworld: The Search #147",
+  "symbol": "TOOLS",
+  "description": "A rock that looks like it could have a fossil hidden in it",
+  "seller_fee_basis_points": 200,
+  "image": "https://bafybeicvrzojsnqtgng7dbwx6iklgvyokqgedvw7uraluwalt7s5wwmfji.ipfs.nftstorage.link/0.gif?ext=gif",
+  "attributes": [
+   {
+      "trait_type": "Attributes",
+      "value": "Hidden"
+    }
+  ],
+  "collection": {
+    "name": "Sachi",
+    "family": "Cyborg"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "RRUMF9KYPcvNSmnicNMAFKx5wDYix3wjNa6bA7R6xqA",
+        "share": 92
+      },
+      {
+        "address": "RRUMF9KYPcvNSmnicNMAFKx5wDYix3wjNa6bA7R6xqA",
+        "share": 8
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+
